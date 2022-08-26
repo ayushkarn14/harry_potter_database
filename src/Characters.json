@@ -39,7 +39,7 @@
         "wand": {
             "wood": "vine",
             "core": "dragon heartstring",
-            "length": ""
+            "length": "10 3/4"
         },
         "patronus": "otter",
         "hogwartsStudent": true,
@@ -978,7 +978,7 @@
         "actor": "Richard Macklin",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e4/Malcolm.png"
     },
     {
         "name": "Gordon",
@@ -1003,7 +1003,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/2/23/Gordon.png"
     },
     {
         "name": "Miranda Gaushawk",
@@ -1028,7 +1028,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/5/58/Goshawk.jpg"
     },
     {
         "name": "Bathilda Bagshot",
@@ -1053,7 +1053,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/0/0d/Bathilda_Bagshot_profile.jpg"
     },
     {
         "name": "Adalbert Waffling",
@@ -1078,7 +1078,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5b/Adalbert_Waffling_HM.png"
     },
     {
         "name": "Emeric Switch",
@@ -1103,7 +1103,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/e/e0/EmericSwitch.jpg"
     },
     {
         "name": "Phyllida Spore",
@@ -1130,7 +1130,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "http://upload.wikimedia.org/wikipedia/commons/1/1d/Elizabeth_Barrett_Browning_by_Michele_Gordigiani_1858.jpg"
     },
     {
         "name": "Arsenius Jigger",
@@ -1155,7 +1155,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/5/5f/ArseniusJigger.JPG"
     },
     {
         "name": "Newt Scamander",
@@ -1185,7 +1185,7 @@
             "Callum Turner"
         ],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/3/36/Newton_Scamander_Profile_crop.png"
     },
     {
         "name": "Quentin Trimble",
@@ -1210,7 +1210,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/7/76/QuentinTrimblePortrait.png"
     },
     {
         "name": "Tom",
@@ -1237,7 +1237,7 @@
             "Jim Tavare"
         ],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/f/fd/Tom_the_barman_POAF.jpg"
     },
     {
         "name": "Doris Crockford",
@@ -1262,7 +1262,7 @@
         "actor": "Nina Young",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/a/ad/Doris_Crockford.JPG"
     },
     {
         "name": "Quirinus Quirrel",
@@ -1289,7 +1289,7 @@
         "actor": "Ian Hart",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d2/Quirinus_Quirrell_PS_promo.jpg"
     },
     {
         "name": "Griphook",
@@ -1316,7 +1316,7 @@
             "Warwick Davis"
         ],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/5/53/Griphook_TDH_SF.png"
     },
     {
         "name": "Madam Malkin",
@@ -1341,7 +1341,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/0/0b/MadamMalkin.jpg"
     },
     {
         "name": "Vindictus Viridian",
@@ -1366,7 +1366,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ec/VindictusProfile.jpg"
     },
     {
         "name": "Garrick Ollivander",
@@ -1391,7 +1391,7 @@
         "actor": "John Hurt",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/6/6f/Garrick_Ollivander.png"
     },
     {
         "name": "Hedwig",
@@ -1424,7 +1424,7 @@
             "Bandit"
         ],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/1/1e/Hedwig_Snowy_Owl_PM.png"
     },
     {
         "name": "Molly Weasley",
@@ -1452,7 +1452,7 @@
         "actor": "Julie Walters",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotterfanon/images/9/96/Molly_Weasley.jpg"
     },
     {
         "name": "Percy Weasley",
@@ -1481,7 +1481,7 @@
         "actor": "Chris Rankin",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotterfanon/images/3/37/Percy_Weasley.PNG"
     },
     {
         "name": "Fred Weasley",
@@ -1506,7 +1506,7 @@
         "actor": "James Phelps",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/d/d3/Fred_Weasley_Profile.JPG"
     },
     {
         "name": "George Weasley",
@@ -1531,7 +1531,7 @@
         "actor": "Oliver Phelps",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/2/2a/DH_promo_front_closeup_George_Weasley.jpg"
     },
     {
         "name": "Lee Jordan",
@@ -1556,7 +1556,7 @@
         "actor": "Luke Youngblood",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/heroes-and-villain/images/a/ad/Lee_Jordan.png"
     },
     {
         "name": "Bill Weasley",
@@ -1585,7 +1585,7 @@
             "Domhnall Gleeson"
         ],
         "alive": true,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/6/66/BillWeasleyDH2.png"
     },
     {
         "name": "Charlie Weasley",
@@ -1612,7 +1612,7 @@
         "actor": "Alex Crockford",
         "alternate_actors": [],
         "alive": true,
-        "image": ""
+        "image": "https://i.pinimg.com/736x/99/03/2a/99032a825e3358144451b6d3d93fec23.jpg"
     },
     {
         "name": "Fat Friar",
@@ -1637,7 +1637,7 @@
         "actor": "Simon Fisher-Becker",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ea/Fat_Friar_Profile.png"
     },
     {
         "name": "Peeves",
@@ -1662,7 +1662,7 @@
         "actor": "",
         "alternate_actors": [],
         "alive": false,
-        "image": ""
+        "image": "https://static.wikia.nocookie.net/harrypotter/images/3/35/PeevesWU.png"
     },
     {
         "name": "Hannah Abbott",

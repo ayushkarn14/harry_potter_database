@@ -9,7 +9,6 @@ function List(props) {
     const [end, setEnd] = useState(16);
     const loadData = () => {
         parsedData = props.category.slice(start, end);
-        console.log(parsedData);
         setList(parsedData);
     };
     const fetchMoreData = () => {
@@ -36,11 +35,7 @@ function List(props) {
                             {list.map((element) => {
                                 return (
                                     <div className="col-md-3 justify-content-center d-flex">
-                                        <Item
-                                            image={element.image}
-                                            name={element.name}
-                                            species={element.species}
-                                        />
+                                        <Item element={element} />
                                     </div>
                                 );
                             })}
